@@ -1,0 +1,154 @@
+body{
+	background-color: #6B787D;
+		font-family: Merienda;
+		text-align: center;
+}
+#about{
+	background-color: #6B787D;
+}
+#container{
+	width: 1200px;
+	margin: 0 auto;
+	background-color: ;
+}
+header{
+	background-color: ;
+	padding: 0px;
+	text-align: center;
+	font-family: Merienda;
+}
+header h2{
+	margin: 0;
+	padding-left: 40px;
+	padding-right: 20px;
+	padding-bottom: 10px;
+
+}
+main{
+	font-family: Merienda;
+}
+footer{
+	background-color: ;
+	padding: 40px;
+	font-family: Merienda;
+}
+footer p{
+	margin: 0;
+}
+#ab-pic{
+	width: 500px;
+	float: center;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+	margin-bottom: 30;
+	margin-top: 30;
+}
+#big-pic{
+	width: 400px;
+	float: center;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+	margin-bottom: 30;
+	margin-top: 30;
+}
+#collection{
+	width: 400px;
+	float: left;
+	display: block;
+    margin-left: 140px;
+    margin-right: auto;
+}
+#links{
+	background-color: transparent;
+	background-blend-mode: multiply;
+}
+	
+#big-pic-in{
+	width: 600px;
+	float: center;
+	display: block;
+	 margin-left: auto;
+    margin-right: auto;
+}
+.twoCOLUMN{
+	display: grid;
+	grid-template-columns: 50% 50%;
+	padding: 40px;
+	background-color: ;
+	
+}
+.two-column {
+	display: grid;
+	grid-template-columns: 50% 50%;
+	padding: 40px;
+	background-color: ;
+	
+}
+.text {
+	font-family: Merienda;
+}
+.text-in-col{
+	font-size: 150%;
+}
+#ex-text {
+	font-size: 200%
+}
+#examples .two-column{
+	padding-left: 40px;
+	padding-right: 40px;
+	padding-bottom: 20px;
+	padding-top: 0px;
+}
+#examples main{
+	padding-bottom: 20px;
+}
+.two-column div {
+	background-color: ;
+	margin-left: 10px;
+	margin-right: 20px;
+	
+}
+.three-column {
+	display: grid;
+	grid-template-columns: 33% 33% 33%;
+	padding: 40px;
+	background-color: ;
+}
+.three-column div{
+	background-color: ;
+	margin-left: 10px;
+	margin-right: 20px;
+}
+nav ul {
+  list-style-type: none;
+  margin-left: 320px;
+  padding: 0;
+  overflow: hidden;
+  background-color: ;
+  text-align: center;
+  
+}
+nav li {
+  float: left;
+  border-right: 1px solid #bbb;
+}
+.active {
+  background-color: #BEC9CE;
+}
+#about nav li{
+float: auto;
+}
+
+nav li a {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 10px 40px;
+  text-decoration: none;
+  
+}
+nav li a:hover {
+  background-color: #111;
+}
